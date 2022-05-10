@@ -5,6 +5,8 @@
   <TodoApp/>
 
   <ParentN />
+
+  <CounterN />
   </div>
 </template>
 
@@ -12,6 +14,7 @@
 import TodoApp from './components/TodoApp.vue';
 import NavN from './components/NavN.vue';
 import ParentN from './components/ParentN.vue';
+import CounterN from './components/CounterN.vue';
 
 export default {
   name: 'App',
@@ -19,6 +22,7 @@ export default {
     TodoApp,
     NavN,
     ParentN,
+    CounterN
 }
 }
 </script>

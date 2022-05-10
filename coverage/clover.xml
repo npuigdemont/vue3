@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1652193134200" clover="3.2.0">
+  <project timestamp="1652193134201" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8" elements="22" coveredelements="22" complexity="0" loc="14" ncloc="14" packages="1" files="6" classes="6"/>
+    <file name="ChildN.vue" path="C:\Users\Nuri\Desktop\estudis nuri\curs programació\it academy\vue3\vue3\src\components\ChildN.vue">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="CounterN.vue" path="C:\Users\Nuri\Desktop\estudis nuri\curs programació\it academy\vue3\vue3\src\components\CounterN.vue">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="18" count="7" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="35" count="11" type="stmt"/>
+    </file>
+    <file name="HelloWorld.vue" path="C:\Users\Nuri\Desktop\estudis nuri\curs programació\it academy\vue3\vue3\src\components\HelloWorld.vue">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="34" count="1" type="stmt"/>
+    </file>
+    <file name="MessageT.vue" path="C:\Users\Nuri\Desktop\estudis nuri\curs programació\it academy\vue3\vue3\src\components\MessageT.vue">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="NavN.vue" path="C:\Users\Nuri\Desktop\estudis nuri\curs programació\it academy\vue3\vue3\src\components\NavN.vue">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+    </file>
+    <file name="TodoApp.vue" path="C:\Users\Nuri\Desktop\estudis nuri\curs programació\it academy\vue3\vue3\src\components\TodoApp.vue">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

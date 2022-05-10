@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
-   <p>Parent</p> 
+   <p>Parent
+    
+   </p> 
     <ChildN />
   </div>
 </template>
